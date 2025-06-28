@@ -1,7 +1,4 @@
-# osu-mapping-helping
-codes for osu mapping
-
-##hour/mins/sec/milliseconds to milliseconds
+# hour/mins/sec/milliseconds to milliseconds
 
 def min_sec_to_sec(x, y):
     return str(x*60 + y) + '   ' + f'{x} {y}'
